@@ -1,3 +1,5 @@
+(there's an English version of this guide available in this repo's file 'README_translated.md', and [at datalowe.com](https://datalowe.com/post/git-collaboration/))
+
 # Git sandbox 
 Här testar vi saker med git. Nedanför finns alla tips från Lowe på Discord samlade.
 
